@@ -5,7 +5,7 @@ Este repositório foi criado como parte do trabalho prático da disciplina de De
 ##  Objetivo
 Aplicar na prática os conceitos aprendidos durante a trilha **GitHub Foundations** (Microsoft Learn), demonstrando o domínio sobre versionamento de código, fluxo de trabalho com branches, commits e Pull Requests.
 
-## Conceitos Aplicados
+## Conceitos Aplicados.
 - Criação e gerenciamento de repositórios públicos;
 - Estruturação de documentação via `README.md`;
 - Fluxo de trabalho com branches (`main` e branch secundária);
